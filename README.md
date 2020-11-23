@@ -1,5 +1,5 @@
 
-## Dominant
+## Main
 
 This is the source code of paper "[Deep Anomaly Detection on Attributed Networks](http://www.public.asu.edu/~kding9/pdf/SDM2019_Deep.pdf)".
 for the twitter fake follower dataset
